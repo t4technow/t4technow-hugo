@@ -1,4 +1,4 @@
-baseURL = "http://t4technow-hugo.netlify.app/"
+baseURL = "https://t4technow.netlify.app"
 title = "T4technow Hugo"
 theme = "zzo"
 
